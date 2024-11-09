@@ -82,6 +82,11 @@ footer #media {
 	padding: 10px;
 }
 
+footer .navbar-nav .media {
+	display: flex;
+	justify-content: center;
+}
+
 
 footer .navbar-nav a {
 	display: flex;
@@ -100,7 +105,7 @@ footer ul {
 }
 
 footer ul li {
-	float: right;
+	float: left;
 	margin: 0 10px;
 }
 
