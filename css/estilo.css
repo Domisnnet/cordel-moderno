@@ -79,7 +79,9 @@ footer h4 {
 }
 
 footer #media {
-	padding: 10px;
+	display: flex;
+	margin-left: -15px;
+	padding-left: -0px;
 }
 
 footer .navbar-nav .media {
