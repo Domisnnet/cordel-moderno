@@ -30,7 +30,7 @@ nav.navbar-transparente {
 	color: #9bf0e1;
 }
 
-.navbar-link {
+.navbar-link, p {
 	color: white;
 	text-decoration: none;
 	font-weight: bolder;
