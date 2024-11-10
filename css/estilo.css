@@ -20,6 +20,7 @@ nav.navbar-transparente {
 
 .navbar-light .navbar-nav .nav-link {
 	color: white;
+	padding: 10px;
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
@@ -29,6 +30,8 @@ nav.navbar-transparente {
 .navbar-light .navbar-toggler {
 	color: rgba(255, 255, 255, 0.5);
 	border-color: rgba(255, 255, 255, 0.5);
+	padding: 15px;
+	margin: 20px;
 }
 
 .divisor {
