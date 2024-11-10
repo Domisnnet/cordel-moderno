@@ -30,6 +30,22 @@ nav.navbar-transparente {
 	color: #9bf0e1;
 }
 
+.navbar-link {
+	color: white;
+	text-decoration: none;
+	font-weight: bolder;
+}
+
+.navbar-link:hover {
+	text-decoration: none;
+	color: white;
+
+}
+
+.externo::after {
+    content:'\1F517';
+}
+
 .navbar-light .navbar-toggler {
 	color: rgba(255, 255, 255, 0.5);
 	border-color: rgba(255, 255, 255, 0.5);
@@ -67,6 +83,10 @@ header h1 {
 	font-variant: small-caps;
 	padding-top: 10px;
 	color: white;
+}
+
+p {
+	font-size: larger;
 }
 
 /* Rodapé */
