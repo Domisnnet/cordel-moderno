@@ -10,10 +10,6 @@ html, body, #home {
 	overflow-x: hidden;
 }
 
-body {
-	font-family: Helvetica, Arial, sans-serif;
-}
-
 /* Barra de Navegação */
 
 nav.navbar-transparente {
