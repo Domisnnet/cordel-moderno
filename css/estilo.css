@@ -72,27 +72,15 @@ footer {
 	position: relative;
 }
 
-footer h4 {
-	color: #919496;
-	font-size: 1em;
-	text-transform: uppercase;
-}
-
 footer #media {
 	display: flex;
 	margin-left: -15px;
 	padding-left: -0px;
 }
 
-footer .navbar-nav .media {
-	display: flex;
-	justify-content: center;
-}
-
 
 footer .navbar-nav a {
 	display: flex;
-	justify-content: baseline;
 	color: white;
 	font-size: 1em;
 }
@@ -107,8 +95,14 @@ footer ul {
 }
 
 footer ul li {
-	float: left;
-	margin: 0 10px;
+	float: right;
+	margin: 0px 5px;
+}
+
+footer h4 {
+	color: #919496;
+	font-size: 1em;
+	text-transform: uppercase;
 }
 
 /* Tipografia */
