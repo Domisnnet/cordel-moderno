@@ -1,4 +1,9 @@
 
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
 /* Layuot */
 html, body, #home {
 	height: 100%;
@@ -40,15 +45,20 @@ nav.navbar-transparente {
 	margin: 12px 15px;
 }
 
-/* Capa */
-.capa {
-	text-align: center;
-}
-
 /* Estrutura de Conteúdos */
 .caixa {
 	padding-top: 20px;
 	padding-bottom: 20px;
+}
+
+.imagem {
+	background-image: url(../imagens/pergaminho.png);
+	background-attachment: fixed;
+}
+
+.imagem2 {
+	background-image: url(../imagens/pergaminho2.png);
+	background-attachment: fixed;
 }
 
 #servicos {
