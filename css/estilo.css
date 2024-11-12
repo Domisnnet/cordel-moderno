@@ -93,8 +93,10 @@ section.normal {
 }
 
 section.normal > p {
+	padding-bottom: 2em;
 	background-color: white;
 	color: #000;
+	padding: 20px;
 }
 
 section.imagem {
@@ -104,13 +106,30 @@ section.imagem {
 
 section.imagem > p {
 	width: 400px;
-	background-color: #00000028;
+	background-color: #0000007c;
+	text-shadow: 1px 1px 0px black;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+#img01 {
+	background-image: url(../imagens/pergaminho.png);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: right center;
+}
+
+#img02 {
+	background-image: url(../imagens/pergaminho2.png);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: right center;
 }
 
 /* Rodapé */
 footer {
 	background-color: #000;
-	padding: 50px 0px 20px 0px;
+	padding: 50px 20px 20px 20px;
 	position: relative;
 }
 
