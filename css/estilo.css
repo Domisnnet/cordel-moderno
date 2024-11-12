@@ -85,6 +85,11 @@ header h1 {
 	font-size: larger;
 }
 
+p {
+	color: #000;
+	padding: 20px;
+}
+
 /* Rodapé */
 footer {
 	background: #000;
