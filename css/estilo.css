@@ -82,9 +82,19 @@ section.normal {
 	color: #000;
 }
 
+section.normal > p {
+	background-color: white;
+	color: #000;
+}
+
 section.imagem {
 	background-color: #303030;
 	color: white;
+}
+
+section.imagem > p {
+	width: 400px;
+	background-color: #00000028;
 }
 
 /* Rodapé */
