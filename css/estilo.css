@@ -102,6 +102,7 @@ section.normal > p {
 section.imagem {
 	background-color: #303030;
 	color: white;
+	box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.7);
 }
 
 section.imagem > p {
