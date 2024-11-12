@@ -139,6 +139,12 @@ footer #media {
 	padding-left: -0px;
 }
 
+footer #dev {
+	font-size: x-large;
+	padding: 10px;
+	color: white;
+}
+
 
 footer .navbar-nav a {
 	display: flex;
@@ -158,6 +164,10 @@ footer ul {
 footer ul li {
 	float: right;
 	margin: 0px 5px;
+}
+
+.externo::after {
+    content:'\1F517';
 }
 
 footer h4 {
