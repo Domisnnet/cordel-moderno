@@ -55,6 +55,11 @@ nav.navbar-transparente {
 }
 
 /* Estrutura de Conteúdos */
+section {
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+}
+
 .normal p {
 	background: white;
 	color: #000;
