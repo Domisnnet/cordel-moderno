@@ -77,13 +77,6 @@ section .imagem p {
 .imagem {
 	background-color: #303030;
 	color: white;
-	background-image: url(../imagens/pergaminho.png);
-	background-attachment: fixed;
-}
-
-.imagem2 {
-	background-image: url(../imagens/pergaminho2.png);
-	background-attachment: fixed;
 }
 
 /* Tipografia */
