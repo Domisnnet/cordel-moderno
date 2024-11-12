@@ -140,8 +140,13 @@ footer #media {
 }
 
 footer #dev {
-	font-size: x-large;
-	padding: 10px;
+	display: flex;
+	font-size: 23px;
+	color: white;
+}
+
+footer #dev:hover {
+	text-decoration: none;
 	color: white;
 }
 
