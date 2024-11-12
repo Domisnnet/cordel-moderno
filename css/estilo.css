@@ -6,8 +6,17 @@
 
 /* Layuot */
 html, body {
-	height: 100%;
+	min-height: 100%;
 	overflow-x: hidden;
+}
+
+header h1 {
+	padding: 20px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 50px;
+	font-weight: 800;
+	font-variant: small-caps;
+	color: white;
 }
 
 /* Barra de Navegação */
@@ -60,16 +69,7 @@ nav.navbar-transparente {
 	font-size: larger;
 }
 
-header h1 {
-	padding: 20px;
-	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-	font-size: 50px;
-	font-weight: 800;
-	font-variant: small-caps;
-	color: white;
-}
-
-/* Estrutura de Conteúdos */
+/* Estrutura de Conteúdo */
 section {
 	padding-top: 10vh;
 	padding-bottom: 10vh;
@@ -77,19 +77,12 @@ section {
 	padding-left: 30px;
 }
 
-.normal p {
-	background: white;
+section.normal {
+	background-color: white;
 	color: #000;
-	padding-top: 20px;
-	padding-bottom: 20px;
 }
 
-section .imagem p {
-	width: 400px;
-	background-color: black;
-}
-
-.imagem {
+section.imagem {
 	background-color: #303030;
 	color: white;
 }
