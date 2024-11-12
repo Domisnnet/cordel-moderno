@@ -69,6 +69,11 @@ section {
 	padding-bottom: 20px;
 }
 
+section .imagem p {
+	width: 400px;
+	background-color: black;
+}
+
 .imagem {
 	background-color: #303030;
 	color: white;
