@@ -103,6 +103,7 @@ section.imagem {
 	background-color: #303030;
 	color: white;
 	box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.7);
+	background-size: cover;
 }
 
 section.imagem > p {
@@ -116,14 +117,12 @@ section.imagem > p {
 #img01 {
 	background-image: url(../imagens/pergaminho.png);
 	background-attachment: fixed;
-	background-size: cover;
 	background-position: right center;
 }
 
 #img02 {
 	background-image: url(../imagens/pergaminho2.png);
 	background-attachment: fixed;
-	background-size: cover;
 	background-position: right center;
 }
 
