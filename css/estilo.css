@@ -121,6 +121,12 @@ footer #media {
 	padding-left: -0px;
 }
 
+footer #medias-sociais {
+	display: flex;
+	margin-left: -15px;
+	padding-left: -0px;
+}
+
 footer #dev {
 	display: flex;
 	font-size: 23px;
