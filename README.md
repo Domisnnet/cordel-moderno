@@ -21,7 +21,12 @@ Este repositório te convida a mergulhar em um poema digital que celebra a evolu
 ## Explore o cordel:
 
 *   **Acesse o poema completo:** [https://www.recantodasletras.com.br/poesias/3186743](https://www.recantodasletras.com.br/poesias/3186743)
-*   **Navegue pelo site:** Abra o arquivo `index.html` em seu navegador.
+
+## Demonstração
+
+<a href="https://domisnnet.github.io/cordel-moderno/">
+  <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Cordel Moderno">
+</a>
 
 ## Compartilhe sua experiência:
 
@@ -43,10 +48,6 @@ Vamos juntos celebrar a beleza da poesia e a evolução da comunicação!
 *   Adicionar mais conteúdo ao cordel.
 
 Aproveite a leitura!
-
-## Demonstração
-
-[Link para a demonstração ao vivo do projeto](https://domisnnet.github.io/cordel-moderno/)
 
 ## Tecnologias Utilizadas
 
