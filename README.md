@@ -2,7 +2,7 @@
 
 Um cordel sobre a Tecnologia de hoje - por **Milton Duarte.**
 
-![Cordel Moderno](imagens/iPad-Air-5-820x1180.png)
+![Cordel Moderno](src/imagens/iPad-Air-5-820x1180.png)
 
 Bem-vindo ao mundo do cordel moderno!
 
