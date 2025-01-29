@@ -98,13 +98,13 @@ section.imagem > p {
 }
 
 #img01 {
-	background-image: url(../imagens/pergaminho.png);
+	background-image: url(../../src/imagens/pergaminho.png);
 	background-attachment: fixed;
 	background-position: right center;
 }
 
 #img02 {
-	background-image: url(../imagens/pergaminho2.png);
+	background-image: url(../../src/imagens/pergaminho2.png);
 	background-attachment: fixed;
 	background-position: right center;
 }
