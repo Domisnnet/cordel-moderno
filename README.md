@@ -24,7 +24,7 @@ Este repositório te convida a mergulhar em um poema digital que celebra a evolu
 
 ## Demonstração
 
-<a href="https://domisnnet.github.io/cordel-moderno/">
+<a href="https://domisnnet.github.io/cordel-moderno/" target="_blank" rel="noopener noreferrer">
   <img src="src/imagens/botão.webp" width="35px" height="35px" alt="Cordel Moderno">
 </a>
 
