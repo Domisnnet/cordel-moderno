@@ -75,5 +75,9 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para d
 
 Para dúvidas ou sugestões, entre em contato via:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Domisnnet)
+<a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="200">
+</a>
+<a href="https://github.com/Domisnnet">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="200">
+</a>
