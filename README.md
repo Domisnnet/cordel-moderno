@@ -73,11 +73,10 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para d
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato via:
+Você pode entrar em contato através do perfil do GitHub: 
 
-<a href="https://www.linkedin.com/in/dominique-marcelino-gon%C3%A7alves-09b871331/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" style="border-radius: 10x;">
-</a>
 <a href="https://github.com/Domisnnet">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="150" style="border-radius: 10px;">
-</a>
+    <img src="src/img/DomisDev.png" width="60px" height="60px" alt="Acessar perfil GitHub">
+    DomisDev
+</a> 
+
