@@ -31,9 +31,9 @@ Este repositório te convida a mergulhar em um poema digital que celebra a evolu
 ## Compartilhe sua experiência:
 
 *   **Deixe um feedback:** Gostou do cordel? Tem sugestões? 
-    Compartilhe suas ideias abrindo uma [issue](https://github.com/Domisnnet/cordel-moderno/issues) neste repositório.
+  Compartilhe suas ideias abrindo uma [issue](https://github.com/Domisnnet/cordel-moderno/issues) neste repositório.
 *   **Contribua com o projeto:** Quer ajudar a melhorar o site? 
-    Faça um [pull request](https://github.com/Domisnnet/cordel-moderno/pulls) com suas alterações.
+  Faça um [pull request](https://github.com/Domisnnet/cordel-moderno/pulls) com suas alterações.
 Vamos juntos celebrar a beleza da poesia e a evolução da comunicação!
 
 ## Recursos:
