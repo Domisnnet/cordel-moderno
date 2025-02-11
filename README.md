@@ -57,7 +57,7 @@ Este projeto foi desenvolvido com:
 - CSS3
 - Bootstrap 4
 - Font Awesome
-- [Devicons](https://devicons.dev/)
+- Devicons
 
 Aqui estão algumas badges representando as tecnologias:
 
