@@ -68,6 +68,7 @@ Aqui estão algumas badges representando as tecnologias:
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Font%20Awesome-228AE6?style=flat-square&logo=font-awesome&logoColor=white">
 </p>
+
 ## Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
