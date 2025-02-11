@@ -41,6 +41,11 @@ Este repositório te convida a mergulhar em um poema digital que celebra a evolu
 *   **Font Awesome:** [https://fontawesome.com/](https://fontawesome.com/)
 *   **Devicon:** [https://devicon.dev/](https://devicon.dev/)
 
+*   **HTML5, CSS3:** Para a estrutura e  estilização.
+*   **Bootstrap:** Para um layout responsivo e adaptável a qualquer dispositivo.
+*   **Font Awesome:** Para ícones que tornam a interface mais amigável.
+
+
 ## Próximos passos:
 
 *   Implementar uma página de contato para o autor.
